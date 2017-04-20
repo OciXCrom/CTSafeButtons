@@ -1,0 +1,35 @@
+[en]
+CTSAFE_NOTALLOWED = Your team !tis not allowed !nto use this button!
+CTSAFE_NOTAIMING = You must be aiming at a button!
+CTSAFE_MARKED = You have successfully !gmarked !nthe button as a !gCTSafe button!n.
+CTSAFE_UNMARKED = You have !tunmarked !nthe button as a !gCTSafe button!n.
+
+[mk]
+CTSAFE_NOTALLOWED = Tvojot tim !tnema pravo !nda go koristi ova kopche!
+CTSAFE_NOTAIMING = Treba da nishanish kon kopche!
+CTSAFE_MARKED = Uspeshno !gobelezha !nkopcheto kako !gCTSafe kopche!n.
+CTSAFE_UNMARKED = Ja !totstrani oznakata !nna !gCTSafe kopche!n.
+
+[bg]
+CTSAFE_NOTALLOWED = Tvoqt otbor !tnqma pravo !nda izpolzva tozi buton.
+CTSAFE_NOTAIMING = Trqbva da nacelish butona.
+CTSAFE_MARKED = Uspeshno !tmarkira !nbutona kato !gCTSafe buton!n.
+CTSAFE_UNMARKED = Ti !tdemarkira !nbutona kato !gCTSafe buton!n.
+
+[ro]
+CTSAFE_NOTALLOWED = Echipa ta !tnu are voie !nsa foloseasca acest buton!
+CTSAFE_NOTAIMING = Trebuie sa te uiti la un buton!
+CTSAFE_MARKED = Ai !gmarcat !nbutonul ca fiind !gun buton sigur pentru CT!n.
+CTSAFE_UNMARKED = Ai !tanulat marcarea !nbutonului ca fiind !gbuton sigur pentru CT!n.
+
+[es]
+CTSAFE_NOTALLOWED = Tu equipo ya no puede usar este boton!
+CTSAFE_NOTAIMING = Tienes que estar mirando un boton!
+CTSAFE_MARKED = Marcaste con exito este boton como !gCTSafe button!n.
+CTSAFE_UNMARKED = Desmarcaste este boton como !gCTSafe button!n. 
+
+[bp]
+CTSAFE_NOTALLOWED = Seu time !tnao esta permitido !nusar este botao!
+CTSAFE_NOTAIMING Você tem que olhar para um botao!
+CTSAFE_MARKED = Você !gmarcou !ncom sucesso the button as a !gCTSafe button!n.
+CTSAFE_UNMARKED = Voce !gdesmarcou!n este botao como !gCTSafe button!n.
