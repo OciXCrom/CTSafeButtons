@@ -30,6 +30,6 @@ CTSAFE_UNMARKED = Desmarcaste este boton como !gCTSafe button!n.
 
 [bp]
 CTSAFE_NOTALLOWED = Seu time !tnao esta permitido !nusar este botao!
-CTSAFE_NOTAIMING Você tem que olhar para um botao!
-CTSAFE_MARKED = Você !gmarcou !ncom sucesso the button as a !gCTSafe button!n.
+CTSAFE_NOTAIMING = VocÃª tem que olhar para um botao!
+CTSAFE_MARKED = VocÃª !gmarcou !ncom sucesso the button as a !gCTSafe button!n.
 CTSAFE_UNMARKED = Voce !gdesmarcou!n este botao como !gCTSafe button!n.
